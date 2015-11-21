@@ -1,0 +1,13 @@
+C:\Users\Andye\AppData\Roaming\EloBuddy\Repositories\C33E9E53\One For Week Adc\OneForWeek\bin\Release\One For Week ADC.exe.config
+C:\Users\Andye\AppData\Roaming\EloBuddy\Repositories\C33E9E53\One For Week Adc\OneForWeek\bin\Release\One For Week ADC.exe
+C:\Users\Andye\AppData\Roaming\EloBuddy\Repositories\C33E9E53\One For Week Adc\OneForWeek\bin\Release\One For Week ADC.pdb
+C:\Users\Andye\AppData\Roaming\EloBuddy\Repositories\C33E9E53\One For Week Adc\OneForWeek\bin\Release\EloBuddy.dll
+C:\Users\Andye\AppData\Roaming\EloBuddy\Repositories\C33E9E53\One For Week Adc\OneForWeek\bin\Release\EloBuddy.SDK.dll
+C:\Users\Andye\AppData\Roaming\EloBuddy\Repositories\C33E9E53\One For Week Adc\OneForWeek\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Andye\AppData\Roaming\EloBuddy\Repositories\C33E9E53\One For Week Adc\OneForWeek\bin\Release\SharpDX.dll
+C:\Users\Andye\AppData\Roaming\EloBuddy\Repositories\C33E9E53\One For Week Adc\OneForWeek\bin\Release\Newtonsoft.Json.dll
+C:\Users\Andye\AppData\Roaming\EloBuddy\Repositories\C33E9E53\One For Week Adc\OneForWeek\obj\Release\O4W-ADC.csprojResolveAssemblyReference.cache
+C:\Users\Andye\AppData\Roaming\EloBuddy\Repositories\C33E9E53\One For Week Adc\OneForWeek\obj\Release\OneForWeek.Properties.Resources.resources
+C:\Users\Andye\AppData\Roaming\EloBuddy\Repositories\C33E9E53\One For Week Adc\OneForWeek\obj\Release\O4W-ADC.csproj.GenerateResource.Cache
+C:\Users\Andye\AppData\Roaming\EloBuddy\Repositories\C33E9E53\One For Week Adc\OneForWeek\obj\Release\One For Week ADC.exe
+C:\Users\Andye\AppData\Roaming\EloBuddy\Repositories\C33E9E53\One For Week Adc\OneForWeek\obj\Release\One For Week ADC.pdb
